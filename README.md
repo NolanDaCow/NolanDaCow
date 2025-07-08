@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-\|/          (__)    
-     `\------(oo)
-       ||    (__)
-       ||w--||     \|/
-   \|/
-
 My name is Nolan!
 
 - Attending Dakota State University
