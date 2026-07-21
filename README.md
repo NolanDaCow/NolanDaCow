@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a computer science student at Dakota State University who likes building things end-to-end — from scrappy scripts to full web apps — and figuring out how stuff breaks along the way.
+I'm a computer science student at Dakota State University who likes building things end-to-end from scrappy scripts to full web apps while figuring out how stuff breaks along the way.
 
 ## 🛠️ Tech I work with
 
