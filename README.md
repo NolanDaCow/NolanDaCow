@@ -17,11 +17,6 @@ I'm a computer science student at Dakota State University who likes building thi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NolanDaCow&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Nolan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanDaCow&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=NolanDaCow&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
